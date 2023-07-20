@@ -3,6 +3,7 @@ Library    SeleniumLibrary
 
 Resource    ${CURDIR}/variableThanitta.robot
 
+
 *** Keywords ***
 Open Webpage_GenerateName
     Open Browser    ${url}    ${browser}
